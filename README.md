@@ -10,7 +10,7 @@ ToDo list is a simple web application to plan your daily tasks. This is primaril
 ### Features
 
 -   Basic Auth(Register, login, password reset)
--   View a list of all your tasks on you4 dashboard upon logging in.
+-   View a list of all your tasks on your dashboard upon logging in.
 -   Add a new task containing the data: title, description, and due date, to my list of tasks.
 -   View a paginated list of all your tasks
 -   Mark task as completed / uncompleted
@@ -74,6 +74,13 @@ Then run:
     ```bash
     php artisan migrate
     ```
+
+-   To run tests , execute:
+
+    ```bash
+    php artisan test
+    ```
+
 
 -   And finally, start the application:
 
