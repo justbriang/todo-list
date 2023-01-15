@@ -83,5 +83,5 @@ Then run:
 
 -   visit [http://localhost:8000/](http://localhost:8000/) to see the application in action.
 
-Alternatively, check out this repo : for a template that I use to run laravel application on docker
+Alternatively, check out this repo here[https://github.com/justbriang/laravel-docker-local-env] for a template that I use to run laravel application on docker
 Instructions on how to set it up are on the repository.
